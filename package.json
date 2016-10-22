@@ -1,17 +1,17 @@
 {
   "name": "bson-ext2",
-  "description": "The C++ bson parser for the node.js mongodb driver.",
+  "description": "[fork from bson-ext] The C++ bson parser for the node.js mongodb driver with latest NaN.",
   "keywords": [
     "mongodb",
     "bson",
     "parser"
   ],
-  "version": "0.1.15",
+  "version": "0.1.16",
   "author": "Christian Amor Kvalheim <christkv@gmail.com>",
-  "contributors": [],
+  "contributors": ["Cash Sun <mr.cashsun@gmail.com>"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/christkv/bson-ext.git"
+    "url": "https://github.com/cashsun/bson-ext.git"
   },
   "bugs": {
     "mail": "node-mongodb-native@googlegroups.com",
